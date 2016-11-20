@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-fs",
+  "version": "0.1.0",
+  "description": "Flatstack's base javascript ESLint config",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "author": "maratfakhreev <marat.fakhreev@flatstack.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "~3.10.2",
+    "eslint-plugin-import": "~2.2.0",
+    "eslint-plugin-react": "~6.7.1"
+  }
+}
