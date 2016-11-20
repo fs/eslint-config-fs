@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-fs",
   "version": "0.1.0",
-  "description": "Flatstack's base javascript ESLint config",
+  "description": "Flatstack's javascript ESLint config",
   "main": "index.js",
   "scripts": {
     "lint": "eslint ."
