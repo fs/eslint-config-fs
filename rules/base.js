@@ -48,7 +48,7 @@ module.exports = {
     'object-curly-spacing': [2, 'always', { 'objectsInObjects': false }],
     'object-shorthand': [2, 'always'],
     'prefer-const': 2,
-    'quotes': ['error', 'single'],
+    'quotes': [2, 'single'],
     'semi': [2, 'always'],
     'use-isnan': 2,
     'valid-typeof': 2
