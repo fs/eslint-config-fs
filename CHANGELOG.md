@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Integrate with travis
 
 ## 0.2.0 - 2017-04-03
 - Introduce yarn
