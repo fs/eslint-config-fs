@@ -6,8 +6,14 @@ This package provides Flatstack's javascript ESLint config as an extensible shar
 
 1. Install eslint-config-fs package
 
+Via npm:
 ```bash
 npm install eslint-config-fs --save-dev
+```
+
+Via yarn:
+```bash
+yarn add eslint-config-fs --dev
 ```
 
 2. Add `"extends": "fs"` to your .eslintrc

@@ -1,6 +1,8 @@
 module.exports = {
   rules: {
     'array-bracket-spacing': 2,
+    'arrow-body-style': [2, 'as-needed'],
+    'arrow-parens': [2, 'as-needed'],
     'brace-style': [2, '1tbs', { 'allowSingleLine': true }],
     'camelcase': [2, { 'properties': 'never' }],
     'comma-dangle': [1, 'never'],
@@ -15,10 +17,11 @@ module.exports = {
     'max-len': [2, 120, 4],
     'max-params': [2, 4],
     'max-statements': [2, 10],
+    'newline-before-return': 2,
     'no-bitwise': 2,
     'no-class-assign': 2,
     'no-cond-assign': [2, 'always'],
-    'no-confusing-arrow': 2,
+    'no-confusing-arrow': [2, { 'allowParens': true }],
     'no-const-assign': 2,
     'no-constant-condition': 2,
     'no-dupe-class-members': 2,
@@ -26,6 +29,7 @@ module.exports = {
     'no-duplicate-case': 2,
     'no-extra-bind': 2,
     'no-extra-boolean-cast': 2,
+    'no-extra-semi': 2,
     'no-fallthrough': 2,
     'no-mixed-spaces-and-tabs': 2,
     'no-multi-spaces': 2,
@@ -44,6 +48,7 @@ module.exports = {
     'object-curly-spacing': [2, 'always', { 'objectsInObjects': false }],
     'object-shorthand': [2, 'always'],
     'prefer-const': 2,
+    'quotes': ['error', 'single'],
     'semi': [2, 'always'],
     'use-isnan': 2,
     'valid-typeof': 2
