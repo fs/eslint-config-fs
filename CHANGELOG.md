@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+## 0.2.2 - 2017-04-03
+- Bump version
+
 ## 0.2.1 - 2017-04-03
 - Fix quotes rule configuration
 - Integrate with travis

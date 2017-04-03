@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-fs",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Flatstack's javascript ESLint config",
   "main": "index.js",
   "scripts": {
