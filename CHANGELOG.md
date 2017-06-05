@@ -1,6 +1,8 @@
 # Changelog
 
 ## Unreleased
+
+## 0.2.3 - 2017-06-05
 - Fix rules affecting switch/case declaration
 - Upgrade dependencies
 
