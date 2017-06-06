@@ -1,6 +1,8 @@
 # Changelog
 
 ## Unreleased
+
+## 0.2.5 - 2017-06-06
 - Fix typo
 
 ## 0.2.4 - 2017-06-06
