@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Fix typo
 
 ## 0.2.4 - 2017-06-06
 - Add json extension as required in import/extensions rule
