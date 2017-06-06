@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Add json extension as required in import/extensions rule
 
 ## 0.2.3 - 2017-06-05
 - Fix rules affecting switch/case declaration
