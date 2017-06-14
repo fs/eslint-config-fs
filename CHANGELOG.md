@@ -1,6 +1,8 @@
 # Changelog
 
 ## Unreleased
+
+## 0.2.6 - 2017-06-14
 - Use module sourceType option
 - Use padding-line-between-statements
 - Upgrade dependencies
