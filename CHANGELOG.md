@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Use module sourceType option
 - Use padding-line-between-statements
 - Upgrade dependencies
 
