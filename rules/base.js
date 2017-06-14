@@ -17,7 +17,6 @@ module.exports = {
     'max-len': [2, 120, 4],
     'max-params': [2, 4],
     'max-statements': [2, 10],
-    'newline-before-return': 2,
     'no-bitwise': 2,
     'no-case-declarations': 2,
     'no-class-assign': 2,
@@ -48,6 +47,14 @@ module.exports = {
     'no-unused-vars': [2, { 'vars': 'all', 'args': 'none' }],
     'object-curly-spacing': [2, 'always', { 'objectsInObjects': false }],
     'object-shorthand': [2, 'always'],
+    'padding-line-between-statements': [
+      2,
+      { blankLine: 'always', prev: '*', next: 'return' },
+      { blankLine: 'always', prev: ['const', 'let', 'var'], next: '*' },
+      { blankLine: 'any', prev: ['const', 'let', 'var'], next: ['const', 'let', 'var'] },
+      { blankLine: 'always', prev: 'directive', next: '*' },
+      { blankLine: 'any', prev: 'directive', next: 'directive' }
+    ],
     'prefer-const': 2,
     'quotes': [2, 'single'],
     'semi': [2, 'always'],

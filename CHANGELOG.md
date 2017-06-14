@@ -1,6 +1,8 @@
 # Changelog
 
 ## Unreleased
+- Use padding-line-between-statements
+- Upgrade dependencies
 
 ## 0.2.5 - 2017-06-06
 - Fix typo
