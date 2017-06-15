@@ -58,6 +58,8 @@ module.exports = {
     'prefer-const': 2,
     'quotes': [2, 'single'],
     'semi': [2, 'always'],
+    'space-infix-ops': 2,
+    'space-unary-ops': 2,
     'use-isnan': 2,
     'valid-typeof': 2
   }
