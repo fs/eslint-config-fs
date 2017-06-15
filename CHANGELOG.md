@@ -1,6 +1,8 @@
 # Changelog
 
 ## Unreleased
+
+## 0.2.7 - 2017-06-15
 - Add 'space-infix-ops' rule
 - Add 'space-unary-ops' rule
 
