@@ -1,4 +1,6 @@
 # Changelog
+
+## 0.2.9 - 2017-07-03
 - Use 'keyword-spacing' instead of 'space-after-keywords'
 
 ## 0.2.8 - 2017-07-03
