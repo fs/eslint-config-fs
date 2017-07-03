@@ -1,4 +1,6 @@
 # Changelog
+
+## 0.2.10 - 2017-07-03
 - Upgrade dependencies
 
 ## 0.2.9 - 2017-07-03
