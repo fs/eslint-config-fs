@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.2.8 - 2017-07-03
 - Add 'space-after-keywords' rule
 
 ## 0.2.7 - 2017-06-15
