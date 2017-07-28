@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.11 - 2017-07-28
+- Remove react/no-danger rule
+- Upgrade dependencies
+
 ## 0.2.10 - 2017-07-03
 - Upgrade dependencies
 
