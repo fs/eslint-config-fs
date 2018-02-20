@@ -8,7 +8,7 @@
   },
   "author": "maratfakhreev <marat.fakhreev@flatstack.com>",
   "license": "MIT",
-  "dependencies": {
+  "peerDependencies": {
     "babel-eslint": "^7.2.3",
     "eslint": "^4.3.0",
     "eslint-plugin-import": "^2.7.0",
